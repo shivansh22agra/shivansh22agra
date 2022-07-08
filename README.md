@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivansh22agra
+- 👋 Hi, I’m Shivansh agrawal
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Flutter and also firebase
 -
