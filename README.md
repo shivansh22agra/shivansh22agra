@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shivansh agrawal
 - 👀 I’m interested in Flutter
-- 🌱 I’m currently learning firebase
+-
 -
 
 <!---
