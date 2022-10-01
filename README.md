@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi,My name is Shivansh agrawal<br>🌱 I’m currently learning and working Flutter
+👋Hi,My name is Shivansh agrawal<br>🌱 I’m currently learning and working in Flutter
 
 
 ## 🌐 Socials:
