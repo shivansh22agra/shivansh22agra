@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi,My name is Shivansh agrawal<br>🌱 I’m currently learning and working in Flutter
+👋Hi,My name is Shivansh agrawal<br>🌱 I’m a Mobile App Developer<br>💫I'm currently learning and working in Flutter <br>🌱Make front-end using flutter and backend using node.js(express+mongoDB),Nest.js
 
 
 ## 🌐 Socials:
