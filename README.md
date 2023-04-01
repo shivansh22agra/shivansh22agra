@@ -1,10 +1,10 @@
 # 💫 About Me:
 👋Hi,I am a 2nd year undergraduate student<br>🌱 I’m a Mobile App Developer<br>💫I'm currently learning and working in Flutter <br>🌱Make front-end using flutter and back-end using node.js(express+mongoDB),Nest.js
-<p>
+<!-- <p>
   <img src="https://github.com/rithikjain/rithikjain/blob/master/code.gif"> 
   <br>
-  ( Yeah, I just stare at the screen everyday 😂 )
-</p>
+
+</p> -->
 
 
 ## 🌐 Socials:
