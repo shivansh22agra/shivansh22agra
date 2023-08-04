@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi,I am a undergraduate student<br>🌱 I’m a Mobile App and Web Developer<br>💫I'm currently learning Next.js <br>🌱Frameworks that I Enjoy for making Frontend Flutter, Next.js and for Backend using Node.js (Express + MongoDB), Nest.js.
+👋Hi,I am a undergraduate student<br>🌱 I’m a Mobile App and Web Developer<br>💫I'm currently learning Next.js <br>🌱Frameworks that I Enjoy for making Frontend Flutter, Next.js and for Backend using Node.js (Express + MongoDB), Nest.js , Firebase.
 <!-- <p>
   <img src="https://github.com/rithikjain/rithikjain/blob/master/code.gif"> 
   <br>
